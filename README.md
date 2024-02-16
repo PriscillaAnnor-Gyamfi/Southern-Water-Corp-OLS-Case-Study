@@ -9,8 +9,7 @@
 
 
 <h2>Problem Statement</h2>
-Understanding and Improving Hotel Booking Processes:
-Despite the significance of hotel bookings in the hospitality industry, challenges persist in optimizing booking procedures to enhance efficiency and guest satisfaction. This project aims to investigate factors influencing hotel bookings, such as hotel type, booking patterns, guest demographics, and cancellation rates, to identify opportunities for streamlining the booking process and improving overall guest experiences. By leveraging data-driven insights, this study seeks to address key issues and implement strategies that enhance booking procedures and maximize hotel revenue.
+Southern Water Corp's Surjek desalination plant incurs high operational costs, largely attributed to maintenance expenses driven by frequent pump failures. The Engineering Team lacks the resources to proactively monitor pump performance, leading to increased downtime and costs. A data-driven solution is needed to detect pump failures in advance, reducing maintenance expenses and improving operational efficiency.
 
 
 
