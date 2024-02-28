@@ -53,8 +53,9 @@ Southern Water Corp's Surjek desalination plant incurs high operational costs, l
 - <b>Microsoft Excel</b> 
 - <b>Microsoft Power Point </b> 
 
-<h2>Graphical Representations of some Key findings:</h2>
+<h2>Graphical Representations of Key findings:</h2>
 
+<h2>Finance :</h2>
 
 
 <p align="center">
@@ -66,31 +67,57 @@ Southern Water Corp's Surjek desalination plant incurs high operational costs, l
 <img src="https://i.imgur.com/xIyUFiR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Market Segments: <br/>
+  <br/>
 <img src="https://i.imgur.com/9oLYpCk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Hotel Types and Cancellations:  <br/>
+ <br/>
 <img src="https://i.imgur.com/993ugZ1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
 <br />
-Hotel Types and Cancellations:  <br/>
+  <br/>
 <img src="https://i.imgur.com/zMtXtjJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
 <br />
-Hotel Types and Cancellations:  <br/>
+  <br/>
 <img src="https://i.imgur.com/IVwdhze.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
 <br />
-Hotel Types and Cancellations:  <br/>
+  <br/>
 <img src="https://i.imgur.com/hs95CXj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
 <br />
-Hotel Types and Cancellations:  <br/>
+  <br/>
 <img src="https://i.imgur.com/kwPi0A4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
 <br />
 
+
+<h2>Economics :</h2>
+
+
+<p align="center">
+ <br/>
+<img src="https://i.imgur.com/XssXnvB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+  <br/>
+<img src="https://i.imgur.com/PAwBBPB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+  <br/>
+<img src="https://i.imgur.com/2MX4DwG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ <br/>
+<img src="https://i.imgur.com/0YY2liS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ <br/>
+ <img src="https://i.imgur.com/lt0vSsI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ <br/>
 
 <!--
  ```diff
