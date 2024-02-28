@@ -55,7 +55,7 @@ Southern Water Corp's Surjek desalination plant incurs high operational costs, l
 
 <h2>Graphical Representations of Key findings:</h2>
 
-<h2>Finance :</h2>
+<h2>1. Financial Analysis (Revenues, Expenses and EBIT) :</h2>
 
 
 <p align="center">
@@ -119,6 +119,36 @@ Southern Water Corp's Surjek desalination plant incurs high operational costs, l
 <br />
  <br/>
 
+
+<h2>Statistics (Descriptive and Inferential) :</h2>
+
+
+<p align="center">
+ <br/>
+<img src="https://i.imgur.com/HYAePLr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+  <br/>
+<img src="https://i.imgur.com/aR4IR0w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+  <br/>
+<img src="https://i.imgur.com/C0Uw3V4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ <br/>
+<img src="https://i.imgur.com/uPoX8d5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ <br/>
+<img src="https://i.imgur.com/v6Po5E3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ <br/>
+<img src="https://i.imgur.com/pOuU63N.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ <br/>
 <!--
  ```diff
 - text in red
