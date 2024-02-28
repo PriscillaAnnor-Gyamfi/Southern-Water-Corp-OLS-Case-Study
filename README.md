@@ -8,40 +8,27 @@
 
 
 
-<h2>Problem Statement</h2>
+<h2>Context</h2>
 Southern Water Corp's Surjek desalination plant incurs high operational costs, largely attributed to maintenance expenses driven by frequent pump failures. The Engineering Team lacks the resources to proactively monitor pump performance, leading to increased downtime and costs. A data-driven solution is needed to detect pump failures in advance, reducing maintenance expenses and improving operational efficiency.
 
 
 
-<h2>Key Findings</h2>
-
-- <b>Hotel Type: The City hotel receives the highest patronage, totaling 79,330 bookings, surpassing the Resort hotel. However, City hotels also experienced the highest number of cancellations compared to the 
-     Resort hotel.</b>
-- <b>Peak Booking Periods: August emerges as the peak booking period with 13,877 bookings, followed by July and May. These months coincide with the summer season, a time when vacation travel is prevalent. </b>
-- <b>Demographic Preferences: Approximately 28.6% of all guests originated from Portugal, followed by Great Britain, France, Spain, and Germany. This suggests that the majority of hotel guests hail from European 
-     countries.</b>
-- <b>Market Segments/Booking channels: Online Travel Agencies (OTAs) accounted for 47.3% of total bookings, amounting to 56,477 reservations. </b>
-- <b>Highest ADR (Average Daily Rate): Daniel Walter from Portugal recorded the highest Average Daily Rate of $5,400 at a City hotel, without eligibility for a refund.</b>
-- <b>Cancellation Rates: The absence of deposits for most bookings contributed to a significant number of cancellations. Deposits serve as a commitment indicator for guests to honor their reservations.</b>
-- <b>Customer Retention: Repeated guests comprise only 3.19% of total bookings, indicating that the majority of reservations are made by first-time guests or customers.</b>
- 
- 
-
 
 <h2>Recommendations</h2>
 
-- <b>Cancellation Management Strategies: Implement measures to mitigate cancellations, particularly for City hotels, such as introducing flexible cancellation policies or requiring deposits for bookings to 
-     ensure commitment from guests.</b>
-- <b>Seasonal Pricing Strategy: Capitalize on peak booking periods in August, July, and May by implementing dynamic pricing strategies to maximize revenue during high-demand seasons.</b>
-- <b>Targeted Marketing Campaigns: Leverage demographic preferences to tailor marketing efforts towards European countries, focusing on promotions and offers that appeal to guests from Portugal, Great Britain, 
-     France, Spain, and Germany.</b>
-- <b>Enhanced Online Presence: Strengthen partnerships with Online Travel Agencies (OTAs) to further penetrate the online booking market segment, optimizing visibility and accessibility for potential guests.</b>
-- <b>Customer Loyalty Programs: Develop initiatives to increase customer retention, such as loyalty programs or personalized offers for repeated guests, to foster long-term relationships and encourage repeat 
-     bookings.</b>
-- <b>Review Pricing Strategy: Evaluate the Average Daily Rate (ADR) and pricing structure to ensure competitiveness within the market while maintaining profitability, considering factors such as demand trends 
-     and guest preferences.</b>
-- <b>Optimization of Room Allocation: Allocate resources and prioritize inventory management strategies to accommodate fluctuations in demand during peak booking periods, ensuring efficient utilization of hotel 
-     facilities and maximizing revenue potential.<b>
+- <b>Sales Volume Allocation: Since Surjek contributes nearly 50% of the sales volumes, optimizing operations at this plant to maintain its high performance is crucial. However, attention should also be paid to Jutik and Kootha to ensure they continue to contribute effectively to overall revenue.</b>
+- </b>Expense Management: December marks a sharp increase in overall costs, particularly in labor expenses. Implementing cost-control measures, especially during this period, could help mitigate expenses and improve profitability.</b>
+- <b>Surjek Expense Analysis: Given Surjek's significantly higher expenses compared to other units, a thorough review of its cost structure is warranted. Identifying areas for cost optimization, particularly in chemical and labor expenditure, could help align expenses with revenue more effectively.</b>
+- </b>Water Production and Chemical Expenditure: The relationship between water production and chemical expenditure, especially at Surjek, indicates potential areas for efficiency improvements. Implementing measures to optimize chemical usage without compromising water production levels could lead to cost savings.</b>
+- <b>EBIT Margin Analysis: While Jutik has the highest overall EBIT contributions, focusing on improving Surjek's EBIT margin could lead to higher profitability. Strategies to increase revenue or reduce expenses at Surjek should be explored to enhance its financial performance.</b>
+- <b>Revenue Management During Maintenance Outages: Implementing revenue-loss mitigation strategies, especially during maintenance outages like the one experienced by Surjek, could help minimize the impact on overall revenues. Timing maintenance activities to coincide with periods of lower market demand may also be beneficial.<b>
+- <b>Plant Profitability Analysis: Despite variations in production costs, all three desalination plants remain profitable. However, exploring ways to further improve cost-effectiveness, particularly at Surjek, could enhance overall profitability.<b>
+- <b>Economies of Scale: Leveraging economies of scale to reduce production costs, as observed across all plants, should be a key focus area. Implementing measures to increase production volume while keeping costs in check could lead to improved economic efficiency.<b>
+- <b>Product Pricing Elasticity: Understanding the price elasticity of different water products can inform pricing strategies. Tailoring pricing models based on the elasticity of demand for hard and soft water products could optimize revenue generation.<b>
+- <b>Market Perception of Water Products: Recognizing the market perception of soft water as a 'less core' product compared to hard water can guide marketing and pricing strategies. Strategies to enhance the perceived value of soft water products may help increase demand and revenue.<b>
+- <b>Proactive Alarm Thresholds: Utilizing descriptive and inferential statistical methodologies, it is recommended to establish proactive alarm thresholds for Pump Failures. Focus on monitoring Horse Power (HP) and Pump Efficiency (PE) closely, with deviations exceeding 15 HP and > 3% PE serving as core signal thresholds for early detection of failures.<b>
+- <b>Signature Abnormalities Identification: Leverage descriptive analysis techniques to identify signature abnormalities in Rolling Standard Deviation and Rolling Mean Datasets during failure periods. Pay close attention to these changes as they can provide valuable insights into potential failure events.<b>
+- <b>Segmentation for Visualization: Further segment the data using binary means (Pump Failure = 0 or 1) and visualize the results through rolling mean and rolling standard deviation boxplots. This segmentation will highlight clear signature differences between normal behavior and failure instances, with pump torque, pump speed, and pump efficiency exhibiting the largest variances.</b>
  
 
 <br />
