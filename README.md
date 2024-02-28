@@ -38,7 +38,8 @@ Southern Water Corp's Surjek desalination plant incurs high operational costs, l
 <h2>Environments Used </h2>
 
 - <b>Microsoft Excel</b> 
-- <b>Microsoft Power Point </b> 
+- <b>Microsoft Power Point </b>
+- <b>Windows 10</b> 
 
 <h2>Graphical Representations of Key findings:</h2>
 
