@@ -45,18 +45,13 @@ Southern Water Corp's Surjek desalination plant incurs high operational costs, l
  
 
 <br />
-
-
-<h2>Language Used</h2>
-
-- <b>Python</b>
  
 
 
 <h2>Environments Used </h2>
 
-- <b>Jupyter Notebook</b> 
-- <b>Windows 10</b> 
+- <b>Microsoft Excel</b> 
+- <b>Microsoft Power Point </b> 
 
 <h2>Graphical Representations of some Key findings:</h2>
 
@@ -64,20 +59,36 @@ Southern Water Corp's Surjek desalination plant incurs high operational costs, l
 
 <p align="center">
  <br/>
-<img src="https://i.imgur.com/vSLbYHF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jLOombF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
   <br/>
-<img src="https://i.imgur.com/FkjkBFU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xIyUFiR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Market Segments: <br/>
-<img src="https://i.imgur.com/6mbYe9Z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9oLYpCk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Hotel Types and Cancellations:  <br/>
-<img src="https://i.imgur.com/FkjkBFU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/993ugZ1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /> 
 <br />
+Hotel Types and Cancellations:  <br/>
+<img src="https://i.imgur.com/zMtXtjJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /> 
+<br />
+Hotel Types and Cancellations:  <br/>
+<img src="https://i.imgur.com/IVwdhze.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /> 
+<br />
+Hotel Types and Cancellations:  <br/>
+<img src="https://i.imgur.com/hs95CXj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /> 
+<br />
+Hotel Types and Cancellations:  <br/>
+<img src="https://i.imgur.com/kwPi0A4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /> 
 <br />
 
 
