@@ -93,7 +93,7 @@ Southern Water Corp's Surjek desalination plant incurs high operational costs, l
 <br />
 
 
-<h2>Economics :</h2>
+<h2>2. Economics :</h2>
 
 
 <p align="center">
@@ -120,7 +120,7 @@ Southern Water Corp's Surjek desalination plant incurs high operational costs, l
  <br/>
 
 
-<h2>Statistics (Descriptive and Inferential) :</h2>
+<h2>3. Statistics (Descriptive and Inferential) :</h2>
 
 
 <p align="center">
